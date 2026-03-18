@@ -1,0 +1,349 @@
+001 Tu khoa nao dung de khai bao bien so nguyen trong C?  
+A. float  
+B. int  
+C. char  
+D. double  
+2  
+
+002 Ky tu nao dung de ket thuc mot cau lenh trong C?  
+A. :  
+B. ;  
+C. .  
+D. ,  
+2  
+
+003 Ham nao dung de nhap du lieu tu ban phim trong C?  
+A. printf()  
+B. scanf()  
+C. puts()  
+D. gets()  
+2  
+
+004 Ky tu dinh dang nao dung de nhap hoac xuat so nguyen trong C?  
+A. %f  
+B. %c  
+C. %d  
+D. %s  
+3  
+
+005 Kieu du lieu nao dung de luu mot ky tu trong C?  
+A. int  
+B. char  
+C. float  
+D. string  
+2  
+
+006 Toan tu nao dung de gan gia tri cho bien?  
+A. ==  
+B. =  
+C. !=  
+D. >=  
+2  
+
+007 Cau lenh nao dung de re nhanh dieu kien trong C?  
+A. for  
+B. while  
+C. if  
+D. switch  
+3  
+
+008 Thu vien nao thuong duoc dung de nhap xuat du lieu chuan trong C?  
+A. stdlib.h  
+B. string.h  
+C. math.h  
+D. stdio.h  
+4  
+
+009 Vong lap nao trong C kiem tra dieu kien truoc khi thuc hien than vong lap?  
+A. do...while  
+B. while  
+C. goto  
+D. break  
+2  
+
+010 Tu khoa nao dung de khai bao mot cau truc trong C?  
+A. class  
+B. struct  
+C. union  
+D. type  
+2  
+
+011 Bien nao sau day la hop le trong C?  
+A. 1abc  
+B. _abc  
+C. abc-1  
+D. abc@  
+2  
+
+012 Toan tu nao dung de so sanh bang?  
+A. =  
+B. ==  
+C. !=  
+D. <=  
+2  
+
+013 Gia tri cua bieu thuc 5/2 trong C (int) la bao nhieu?  
+A. 2.5  
+B. 3  
+C. 2  
+D. 2.0  
+3  
+
+014 Tu khoa nao dung de khai bao hang so?  
+A. const  
+B. static  
+C. define  
+D. auto  
+1  
+
+015 Ham main() tra ve kieu du lieu nao?  
+A. void  
+B. float  
+C. int  
+D. char  
+3  
+
+016 Toan tu && co y nghia gi?  
+A. OR  
+B. AND  
+C. NOT  
+D. XOR  
+2  
+
+017 Toan tu || co y nghia gi?  
+A. AND  
+B. NOT  
+C. OR  
+D. XOR  
+3  
+
+018 Cau lenh nao dung de lap voi so lan xac dinh?  
+A. while  
+B. do...while  
+C. for  
+D. if  
+3  
+
+019 Ham nao dung de in chuoi?  
+A. scanf  
+B. printf  
+C. gets  
+D. putchar  
+2  
+
+020 Toan tu % dung de lam gi?  
+A. chia lay du  
+B. chia lay nguyen  
+C. nhan  
+D. cong  
+1  
+
+021 Gia tri cua bieu thuc 10%3 la?  
+A. 1  
+B. 2  
+C. 3  
+D. 0  
+1  
+
+022 Kieu du lieu nao co do chinh xac cao hon float?  
+A. int  
+B. char  
+C. double  
+D. short  
+3  
+
+023 Ham nao dung de doc mot ky tu?  
+A. gets  
+B. getchar  
+C. scanf  
+D. putchar  
+2  
+
+024 Cau lenh break dung de lam gi?  
+A. tiep tuc lap  
+B. thoat khoi vong lap  
+C. dung chuong trinh  
+D. bo qua lenh  
+2  
+
+025 Cau lenh continue dung de lam gi?  
+A. thoat vong lap  
+B. tiep tuc vong lap moi  
+C. bo qua lan lap hien tai  
+D. dung chuong trinh  
+3  
+
+026 Toan tu ++ dung de lam gi?  
+A. giam 1  
+B. tang 1  
+C. nhan 2  
+D. chia 2  
+2  
+
+027 Toan tu -- dung de lam gi?  
+A. tang 1  
+B. giam 1  
+C. nhan 2  
+D. chia 2  
+2  
+
+028 Mang trong C bat dau tu chi so nao?  
+A. 1  
+B. 0  
+C. -1  
+D. tuy y  
+2  
+
+029 strlen() dung de lam gi?  
+A. do do dai chuoi  
+B. sao chep chuoi  
+C. noi chuoi  
+D. so sanh chuoi  
+1  
+
+030 strcpy() dung de lam gi?  
+A. so sanh chuoi  
+B. noi chuoi  
+C. sao chep chuoi  
+D. do dai chuoi  
+3  
+
+031 strcmp() dung de lam gi?  
+A. noi chuoi  
+B. so sanh chuoi  
+C. sao chep chuoi  
+D. xoa chuoi  
+2  
+
+032 fgets() dung de lam gi?  
+A. doc chuoi tu file  
+B. in chuoi  
+C. xoa chuoi  
+D. noi chuoi  
+1  
+
+033 fopen() dung de lam gi?  
+A. dong file  
+B. mo file  
+C. doc file  
+D. ghi file  
+2  
+
+034 fclose() dung de lam gi?  
+A. mo file  
+B. dong file  
+C. doc file  
+D. ghi file  
+2  
+
+035 fprintf() dung de lam gi?  
+A. doc file  
+B. ghi file  
+C. dong file  
+D. mo file  
+2  
+
+036 fscanf() dung de lam gi?  
+A. ghi file  
+B. doc file  
+C. dong file  
+D. mo file  
+2  
+
+037 Con tro trong C la gi?  
+A. bien luu gia tri  
+B. bien luu dia chi  
+C. bien luu chuoi  
+D. bien luu so  
+2  
+
+038 Toan tu & dung de lam gi?  
+A. lay gia tri  
+B. lay dia chi  
+C. cong  
+D. tru  
+2  
+
+039 Toan tu * trong con tro dung de lam gi?  
+A. lay dia chi  
+B. truy cap gia tri  
+C. cong  
+D. tru  
+2  
+
+040 malloc() dung de lam gi?  
+A. cap phat bo nho dong  
+B. giai phong bo nho  
+C. mo file  
+D. dong file  
+1  
+
+041 free() dung de lam gi?  
+A. cap phat bo nho  
+B. giai phong bo nho  
+C. mo file  
+D. dong file  
+2  
+
+042 struct dung de lam gi?  
+A. khai bao ham  
+B. khai bao mang  
+C. tao kieu du lieu moi  
+D. tao vong lap  
+3  
+
+043 union dung de lam gi?  
+A. luu nhieu gia tri cung luc  
+B. dung chung bo nho  
+C. tao mang  
+D. tao ham  
+2  
+
+044 typedef dung de lam gi?  
+A. dat ten moi cho kieu du lieu  
+B. tao ham  
+C. tao mang  
+D. tao bien  
+1  
+
+045 #define dung de lam gi?  
+A. khai bao bien  
+B. dinh nghia hang  
+C. tao ham  
+D. tao mang  
+2  
+
+046 include dung de lam gi?  
+A. them thu vien  
+B. tao bien  
+C. tao ham  
+D. xoa file  
+1  
+
+047 exit() dung de lam gi?  
+A. thoat chuong trinh  
+B. lap lai  
+C. doc file  
+D. ghi file  
+1  
+
+048 rand() dung de lam gi?  
+A. sinh so ngau nhien  
+B. doc file  
+C. ghi file  
+D. xoa file  
+1  
+
+049 sizeof dung de lam gi?  
+A. tinh kich thuoc bien  
+B. cong bien  
+C. tru bien  
+D. nhan bien  
+1  
+
+050 return dung de lam gi?  
+A. ket thuc ham va tra ve gia tri  
+B. lap lai  
+C. doc file  
+D. ghi file  
+1  
